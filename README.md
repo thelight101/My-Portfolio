@@ -1,2 +1,9 @@
 # My-Portfolio
-Hello, I'm TheLight101!  I'm a 15-year-old designer focused on Unreal Engine 5, skilled in Blueprint and UI design. I combine technical skills with creativity to build immersive projects, aiming for the best user experience. Driven by continuous learning, I explore new techniques to improve and push my game design skills further.
+
+- 👋 Hi, I’m @thelight101
+- 👀 I’m interested in game development, UI design, and Unreal Engine 5 projects.
+- 🌱 I’m currently learning advanced techniques in Blueprint and improving my game design skills.
+- 💞️ I’m looking to collaborate on creative Unreal Engine projects and innovative designs.
+- 📫 How to reach me: [your email or social media link]
+- 😄 Pronouns: He/Him (or your preferred pronouns)
+- ⚡ Fun fact: I started designing games at 15 and enjoy blending creativity with technology!
